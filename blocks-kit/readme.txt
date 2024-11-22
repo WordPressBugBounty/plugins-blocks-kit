@@ -5,9 +5,9 @@ Plugin URI: https://wordpress.org/plugins/blocks-kit/
 Contributors: techeshta, alkesh7, vastarpara
 Tags: Blocks, Gutenberg, Editor, Page Builder, Gutenberg Blocks, Blocks for Freelancers, Blocks Kit
 Requires at least: 4.8
-Tested up to: 6.6.2
+Tested up to: 6.7
 Requires PHP: 8.0
-Stable tag: 1.1.4
+Stable tag: 1.1.5
 License: GPL2+
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
 
@@ -16,25 +16,25 @@ Additional Gutenberg Blocks for Editors, Content Writers and freelancers with ad
 == Description ==
 
 Blocks Kit is a Gutenberg Blocks collection with unlimited possibilities to design a webpage. You can build professional, elegant websites using the new WordPress editor Gutenberg with very ease and without any code. It is a large variety of beautiful blocks that can develop and design your best web pages with some clicks.
- 
+
 It is a bunch of additional Gutenberg blocks for Editors, Content Writers, and freelancers to provide all possible options.
 
 <strong>[Live Demo](https://gutenberg.techeshta.com/blocks-kit-for-gutenberg/?utm_medium=wp.org&utm_source=wordpressorg&utm_campaign=readme&utm_content=blockskit) | [Documentation](https://www.techeshta.com/docs/blocks-kit-gutenberg-blocks/?utm_medium=wp.org&utm_source=wordpressorg&utm_campaign=readme&utm_content=techeshta)</strong>
 
 ==Where is Blocks Kit Plugin Useful?==
 
-Below is one small list for which purposes you can use the Blocks Kit. 
+Below is one small list for which purposes you can use the Blocks Kit.
 
 * Blocks for Editors
 * Blocks for Content Writers
-* Blocks for Freelancers 
+* Blocks for Freelancers
 * Blocks for Designer
 * Blocks for Developer
 
 ==Why Choose a Block Kit for your Gutenberg Project?==
 
 We carefully researched over minimum requirements of any website development. And then created a list of options over the selected blocks that we are thinking of designing and provide it as free, and you can see the result here. 
- 
+
 We offered all possible opportunities with all Gutenberg Blocks. So, from beginner to freelance designer, developer, writer, and the content creator can create awesome stuff with the new Gutenberg editor. We have 10+ Gutenberg Blocks available as a start. 
 
 ==Features of Blocks Kit==
@@ -85,8 +85,8 @@ Don't forget to rate us on [WordPress](https://wordpress.org/support/plugin/bloc
 1. Go to Plugins ><strong>Add New</strong>
 2. Search for <strong>Blocks Kit - Gutenberg Blocks for Freelancers</strong>
 3. Click on <strong>Install Now</strong> Button
-4. Click on <strong>Activate Now</strong> After Installed in the Backend 
- 
+4. Click on <strong>Activate Now</strong> After Installed in the Backend
+
 <strong>From WordPress.org </strong>
 
 1. Download <strong>[Blocks Kit - Gutenberg Blocks for Freelancers](https://downloads.wordpress.org/plugin/blocks-kit.zip)</strong>
@@ -101,11 +101,11 @@ To get the full experience of the next-generation WordPress block editor, you'll
 = Do I Need Coding Skills To Use Blocks Kit? =
 Not! Blocks Kit for Gutenberg Editor is as easy to use as you can think. It works just like Gutenberg Block, and you donÃ¢â‚¬â„¢t need to code.
 
-= Will Blocks Kit Slow Down My Site? = 
+= Will Blocks Kit Slow Down My Site? =
 
 Not. We built Blocks Kit with performance in mind. It's built to the standards of Gutenberg. Hence all the required styling is compiled when you use Blocks.
 
-= Do You Have a Live Demo? = 
+= Do You Have a Live Demo? =
 Yes, we have a live demo that you can check out [here](https://gutenberg.techeshta.com/blocks-kit-for-gutenberg/?utm_medium=wp.org&utm_source=wordpressorg&utm_campaign=readme&utm_content=blockskit).
 
 = Is Blocks Kit Free To Use? =
@@ -126,6 +126,11 @@ Please reach out via the official [support forum](https://wordpress.org/support/
 
 
 == Changelog ==
+
+= 1.1.5 =
+Release date: November 22nd, 2024
+
+* [Updated] Latest WordPress 6.7 compatibility Check
 
 = 1.1.4 =
 Release date: September 30th, 2024
@@ -186,13 +191,13 @@ Release Date: March 31st, 2020
 = 1.0.3 =
 Release Date: November 16th, 2019
 
-* Fixed: Compatibility with WordPress update v5.3 
+* Fixed: Compatibility with WordPress update v5.3
 
 = 1.0.2 =
 Release Date: December 5th, 2018
 
 * Fixed: Language translation code
-* Fixed: Compatibility with Gutenberg update v4.6.x 
+* Fixed: Compatibility with Gutenberg update v4.6.x
 
 = 1.0.1 =
 Release Date: October 17th, 2018

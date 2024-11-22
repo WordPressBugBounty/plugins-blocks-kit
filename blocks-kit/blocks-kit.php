@@ -3,10 +3,10 @@
  * Plugin Name: Blocks Kit - Gutenberg Blocks for Freelancers
  * Plugin URI: https://wordpress.org/plugins/blocks-kit/
  * Description: Additional Gutenberg Blocks for Editors, Content Writers and freelancers with advanced styles and options.
- * Version: 1.1.4
+ * Version: 1.1.5
  * Author: Techeshta
  * Author URI: https://www.techeshta.com
- * Stable tag: 1.1.3
+ * Stable tag: 1.1.5
  * License: GPL2+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  *
